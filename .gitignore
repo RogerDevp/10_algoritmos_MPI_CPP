@@ -1,0 +1,24 @@
+# Binarios compilados
+01_suma
+02_maximo
+03_pares
+04_producto
+05_busqueda
+06_suma_mat
+07_mult_mat
+08_primos
+09_circular
+10_sort
+
+# VS Code
+.vscode/
+
+# LaTeX auxiliares
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# clangd
+compile_commands.json
